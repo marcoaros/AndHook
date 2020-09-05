@@ -1,4 +1,4 @@
-package com.tuan800.zhe800.framework.util;
+package com.test.util;
 
 import android.app.Activity;
 import android.content.pm.PackageInfo;
